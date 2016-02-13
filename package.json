@@ -1,0 +1,28 @@
+{
+  "name": "quotes_for_developers",
+  "version": "1.0.0",
+  "description": "a web app that will display a random quote using the quotes on design api, vanilla javascript and bootstrap for styling as well as my own custom styles.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haasDev/Quotes_for_Developers.git"
+  },
+  "author": "Tyler Haas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haasDev/Quotes_for_Developers/issues"
+  },
+  "homepage": "https://github.com/haasDev/Quotes_for_Developers#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-uglify": "^1.5.2",
+    "path": "^0.12.7"
+  }
+}
